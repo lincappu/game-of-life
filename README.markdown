@@ -26,6 +26,6 @@ Ideal for developers, software architects, and project managers, Jenkins: The De
  - Manage a farm of Jenkins servers to run distributed builds
  - Implement automated deployment and continuous delivery
 
-这是测试新家的内容。
-
+这是测试新家的内容
+新增测试内容
 
